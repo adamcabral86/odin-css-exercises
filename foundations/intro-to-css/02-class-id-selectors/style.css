@@ -1,0 +1,20 @@
+.odd-p {
+    background-color: rgb(247, 34, 176);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+
+}
+
+#one-div {
+    color:blue;
+    font-size: 36px;
+}
+
+#two-div {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.three-p {
+    font-size: 24px;
+}
